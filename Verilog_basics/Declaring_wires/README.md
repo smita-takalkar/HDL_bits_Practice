@@ -1,0 +1,2 @@
+# DECLARING WIRES 
+**Problem Statement :**
