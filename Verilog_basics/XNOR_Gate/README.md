@@ -1,0 +1,2 @@
+# XNOR GATE
+**Problem statement :** 
