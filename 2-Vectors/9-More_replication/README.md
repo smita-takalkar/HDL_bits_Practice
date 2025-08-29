@@ -10,4 +10,4 @@ out[ 0] = ~e ^ e;</br>
 <img width="510" height="152" alt="image" src="https://github.com/user-attachments/assets/5677b9ca-54c4-4ed7-85e9-552cb7770655" /></br>
 As the diagram shows, this can be done more easily using the replication and concatenation operators.</br>
 - The top vector is a concatenation of 5 repeats of each input </br>
-- The bottom vector is 5 repeats of a concatenation of the 5 inputsuwjjsnsn
+- The bottom vector is 5 repeats of a concatenation of the 5 
