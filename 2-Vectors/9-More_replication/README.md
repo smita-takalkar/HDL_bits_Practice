@@ -11,3 +11,4 @@ out[ 0] = ~e ^ e;</br>
 As the diagram shows, this can be done more easily using the replication and concatenation operators.</br>
 - The top vector is a concatenation of 5 repeats of each input </br>
 - The bottom vector is 5 repeats of a concatenation of the 5
+uwgsjwiwvsjixjxbjdis
