@@ -12,7 +12,7 @@ As the diagram shows, this can be done more easily using the replication and con
 - The top vector is a concatenation of 5 repeats of each input </br>
 - The bottom vector is 5 repeats of a concatenation of the 5
 huhvuhoin
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 
 
 
