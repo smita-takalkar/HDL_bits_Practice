@@ -13,6 +13,6 @@ As the diagram shows, this can be done more easily using the replication and con
 - The bottom vector is 5 repeats of a concatenation of the 5
 huhvuhoin
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
 
 
