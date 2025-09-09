@@ -4,5 +4,5 @@ Given a module named mod_a that has 2 outputs and 4 inputs, in that order. You m
 
 You are given the following module:
 
-
+<img width="183" height="78" alt="image" src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-09-09 233521.png" />
 
