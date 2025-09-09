@@ -2,7 +2,7 @@
 PROBLEM STATEMENT:
 You are given a module named mod_a that has 2 outputs and 4 inputs, in some order. You must connect the 6 ports by name to your top-level module's ports:
 
-Port in mod_a	Port in top_module
+Port in mod_a	Port in top_module<br/>
 output out1	out1
 output out2	out2
 input in1	a
